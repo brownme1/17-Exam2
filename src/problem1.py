@@ -394,7 +394,7 @@ def problem1c(integers):
            their respective indices (0, 1, and 2, respectively).
      """
     ###########################################################################
-    # TODO: 4. Implement and test this function.
+    # DONE: 4. Implement and test this function.
     #          Tests have been written for you (above).
     ###########################################################################
     for k in range (len(integers)):
@@ -532,7 +532,7 @@ def problem1d(t, sequence):
            FOR HELP if this problem's specification is not clear to you.
      """
     ###########################################################################
-    # TODO: 4. Implement and test this function.
+    # DONE: 4. Implement and test this function.
     #          Tests have been written for you (above).
     ###########################################################################
     count = 0
